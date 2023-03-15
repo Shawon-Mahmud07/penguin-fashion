@@ -13,6 +13,8 @@ module.exports = {
         "nav-color": "#A4BC46",
         "btn-start": "#A4BC46",
         "btn-end": "#85A019",
+        "image-body": "#F1F1F1",
+        body: "#E5E5E5",
         "btn-primary": {
           100: "#363958",
           200: "#3C3C3C",
